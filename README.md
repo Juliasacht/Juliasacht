@@ -1,68 +1,61 @@
-# Olá, eu sou a Julia de Souza Sacht
+# Olá, eu sou Julia de Souza Sacht 👋
 
-Sou estudante de **Tecnologia em Sistemas para Internet**, com foco em desenvolvimento web, APIs REST e aplicações com banco de dados.
+Sou estudante de Tecnologia em Sistemas para Internet no IFES, com conclusão prevista para dezembro de 2026.
 
-Tenho estudado e desenvolvido projetos usando **Node.js**, **Express**, **MongoDB**, **MySQL**, **JavaScript**, **TypeScript**, **React**, **HTML**, **CSS** e **PHP**.
+Busco uma oportunidade de estágio ou posição júnior em desenvolvimento web. Tenho experiência anterior com suporte técnico e desenvolvo aplicações utilizando React, TypeScript, Node.js, Express, MySQL, MongoDB e Supabase.
 
 ## Tecnologias
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=fff)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
+- Front-end: React, TypeScript, JavaScript, HTML e CSS
+- Back-end: Node.js, Express e PHP
+- Bancos de dados: MySQL, MongoDB e Supabase
+- Ferramentas e conceitos: Git, GitHub, APIs REST, Vite e organização em camadas
 
 ## Projetos em destaque
 
+### Diagnovetis
+
+Aplicação web acadêmica para gestão e atendimento veterinário, desenvolvida com React, TypeScript, Vite e Supabase.
+
+Minhas principais contribuições:
+
+- autenticação e criação de contas;
+- cadastro de usuários e animais;
+- agenda de consultas;
+- atendimentos e prontuários clínicos;
+- módulos de zoonoses e medicamentos;
+- dashboards e áreas de acesso restrito;
+- geração de relatórios clínicos em PDF;
+- integração da autenticação e persistência de dados com Supabase.
+
+[Ver projeto](https://github.com/AlexandreVenturini/diagnovetis) • [Ver minhas contribuições](https://github.com/AlexandreVenturini/diagnovetis/commits?author=Juliasacht)
+
+### Site de Produtos — Vitrine Geral
+
+Aplicação com React e TypeScript para exibição e busca de produtos, consumo de API externa e gerenciamento de favoritos.
+
+[Ver código](https://github.com/Juliasacht/Site-de-Produtos-Vitrine-Geral) • [Ver aplicação](https://interdisciplinar-final-sigma.vercel.app/)
+
+### API de Clínica Médica
+
+API REST desenvolvida com Node.js, Express e MongoDB. Possui CRUD, filtros, paginação, índices, dados de teste e relatórios produzidos com o Aggregation Framework.
+
+[Ver código](https://github.com/Juliasacht/clinica-medica-api-mongodb)
+
 ### Sistema de Agendamento de Consultas
 
-Sistema web para gerenciamento de clínica médica, com cadastro de pacientes, médicos e consultas.
+Sistema web com Node.js, Express, EJS e MySQL. Possui autenticação administrativa, dashboard e gerenciamento de pacientes, médicos e consultas.
 
-- Node.js, Express, EJS e MySQL
-- Login administrativo com sessão
-- CRUD de pacientes, médicos e consultas
-- Dashboard administrativo
-- Organização em controllers, models, routes e views
+[Ver código](https://github.com/Juliasacht/sistema-agendamento-consultas)
 
-[Ver repositório](https://github.com/Juliasacht/sistema-agendamento-consultas)
+## Atualmente estudando
 
-### API de Clínica Médica com MongoDB
-
-API REST para gestão de dados de uma clínica médica usando Node.js, Express e MongoDB.
-
-- Rotas para pacientes, médicos, especialidades e consultas
-- Organização em controllers, services e routes
-- Configuração por variáveis de ambiente
-- Script de seed para popular dados iniciais
-
-[Ver repositório](https://github.com/Juliasacht/clinica-medica-api-mongodb)
-
-### Site de Produtos - Vitrine Geral
-
-Aplicação web com React e TypeScript para exibição de produtos, busca e favoritos.
-
-- React com TypeScript
-- Consumo de APIs externas
-- Organização com models, controllers, interfaces e components
-- Funcionalidade de favoritos
-
-[Ver repositório](https://github.com/Juliasacht/Site-de-Produtos-Vitrine-Geral)
-
-## Em desenvolvimento
-
-Atualmente estou aprofundando meus estudos em:
-
-- Desenvolvimento de APIs REST
-- Integração com bancos relacionais e não relacionais
-- React e TypeScript
-- Boas práticas de organização de projetos
-- Testes e documentação
+- desenvolvimento e integração de APIs REST;
+- React e TypeScript;
+- testes automatizados;
+- bancos de dados relacionais e não relacionais;
+- boas práticas de desenvolvimento de software.
 
 ## Contato
 
-[GitHub](https://github.com/Juliasacht)
+[LinkedIn](https://www.linkedin.com/in/julia-de-souza-sacht-009a10334/)
