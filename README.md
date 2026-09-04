@@ -48,7 +48,7 @@ Sistema web com Node.js, Express, EJS e MySQL. Possui autenticação administrat
 
 [Ver código](https://github.com/Juliasacht/sistema-agendamento-consultas)
 
-## Atualmente estudando
+## Atualmente estudando / Aprofundando conhecimentos
 
 - desenvolvimento e integração de APIs REST;
 - React e TypeScript;
